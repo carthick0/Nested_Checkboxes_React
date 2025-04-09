@@ -30,7 +30,7 @@ const checkboxesData = [
           },
           {
             id: 7,
-            name: "Lemon",
+            name: "Lemon ",
           },
         ],
       },
