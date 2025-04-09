@@ -12,7 +12,7 @@ export default function App() {
           children: [
             {
               id: 3,
-              name: "Green Apple",
+              name: "Green ",
             },
             {
               id: 4,
